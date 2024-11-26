@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  img{
+    width: 85px;
+  }
+  label{
+    font-weight: 600;
+  }
+  .section-1{
+    height: 250px;
+    width: 100%;
+  }
+  .user-data{
+    color: #555;
+    font-weight: 400;
+  }
